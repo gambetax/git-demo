@@ -1,5 +1,13 @@
-hello world
+Hola, Mundo
 
-Hallo Welft
+Hello, world
 
-ciao mundo
+Hallo, Welt
+
+Ciao, mondo
+
+Konnichiwa, sekai
+
+Olá, mundo
+
+Privet, mir
