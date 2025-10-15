@@ -3,5 +3,3 @@ hello world
 Hallo Welft
 
 ciao mundo
-	
-*---------------------------------*
