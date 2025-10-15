@@ -1,12 +1,5 @@
 hello world
-<<<<<<< HEAD
-
-ciao mundo
 
 Hallo Welft
 
-=======
-hola mundo
-
 ciao mundo
->>>>>>> 2e98748dd598567e625613e14ece8ecadf66a34f
