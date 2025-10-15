@@ -1,13 +1,17 @@
 Hola, Mundo
 
-Hello, world
+Hello, World
 
 Hallo, Welt
 
-Ciao, mondo
+Ciao, Mondo
 
 Konnichiwa, sekai
 
 Olá, mundo
 
 Privet, mir
+
+Annyeonghaseyo, segye
+
+Bonjour, le monde
